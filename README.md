@@ -19,7 +19,7 @@ A **React-based Book Search Application** that allows users to search for books 
 ### Steps
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/book-search-app.git
+   git clone https://github.com/Rahulbiju003/book-search-app.git
    cd book-search-app
    ```
 2. **Install dependencies**:
