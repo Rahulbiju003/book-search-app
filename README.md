@@ -9,6 +9,10 @@ A **React-based Book Search Application** that allows users to search for books 
 - **Debounced API Calls**: Reduces unnecessary API requests for better performance.
 - **Responsive UI**: Works seamlessly across all devices.
 - **Optimized Performance**: Uses React best practices and efficient API fetching.
+  
+## Tech Stack
+- Frontend: React, Tailwind CSS
+- API: Google Books API
 
 ## Installation
 
