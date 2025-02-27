@@ -2,15 +2,15 @@
 
 A **React-based Book Search Application** that allows users to search for books using the **Google Books API**. It dynamically fetches search results and displays popular books.
 
-## 🌟 Features
+## Features
 
-- 🔍 **Live Search**: Fetches books dynamically as the user types.
-- 📚 **Popular Books**: Displays the top 10 books when the search input is empty.
-- ⏳ **Debounced API Calls**: Reduces unnecessary API requests for better performance.
-- 🎨 **Responsive UI**: Works seamlessly across all devices.
-- ⚡ **Optimized Performance**: Uses React best practices and efficient API fetching.
+- **Live Search**: Fetches books dynamically as the user types.
+- **Popular Books**: Displays the top 10 books when the search input is empty.
+- **Debounced API Calls**: Reduces unnecessary API requests for better performance.
+- **Responsive UI**: Works seamlessly across all devices.
+- **Optimized Performance**: Uses React best practices and efficient API fetching.
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - **Node.js** (Download from [Node.js official site](https://nodejs.org/))
@@ -34,8 +34,3 @@ A **React-based Book Search Application** that allows users to search for books 
    ```sh
    npm run dev
    ```
-
-## 🛠 Tech Stack
-
-- **Frontend**: React, Tailwind CSS
-- **API**: Google Books API
